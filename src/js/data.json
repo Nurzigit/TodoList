@@ -1,0 +1,22 @@
+{
+    "todolist": [
+      {
+        "title": "Task 1",
+        "description": "Complete task 1",
+        "priority": "High",
+        "due_date": "2020-12-25"
+      },
+      {
+        "title": "Task 2",
+        "description": "Complete task 2",
+        "priority": "Medium",
+        "due_date": "2020-12-30"
+      },
+      {
+        "title": "Task 3",
+        "description": "Complete task 3",
+        "priority": "Low",
+        "due_date": "2021-01-05"
+      }
+    ]
+  }
